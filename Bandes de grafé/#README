@@ -1,0 +1,9 @@
+Primer de tot:
+  a l'hora de llegir el hamiltonià, sisl dona un error cuant intenta llegir la versió del document. 
+  Ho diu com que no has posat tots els arguments. La meva hipòtesi es que algun dels **kwargs si no s'especifica ho defineix amb una funció i d'alguna manera deu funcionar malament.
+  He provat cambiar les carpetes, descarregar el notebook un altre cop i fer els calculs de siesta amb un grid diferent, res funciona
+
+Segon:
+  No he canbiado el nombre de ningun archivo.
+  se llaman como los has llamado tu :)
+  
